@@ -1,3 +1,4 @@
 /bin
 /disk
+!/disk/boot.cfg
 /images
